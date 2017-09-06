@@ -6,6 +6,6 @@
   tasks:
     - name: Download Artifact
       get_url:
-        url: http://localhost:8081/nexus/content/repositories/releases/org/sonatype/mavenbook/multi/simple-webapp/1.0/simple-webapp-2.0.war
+        url: http://localhost:8081/nexus/content/repositories/releases/org/sonatype/mavenbook/multi/simple-webapp/2.0/simple-webapp-2.0.war
         dest: /Users/sridharreddyalimineti/Downloads/Tomcat/apache-tomcat-7.0.81/webapps/
 
